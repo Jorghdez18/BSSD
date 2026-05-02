@@ -266,3 +266,7 @@ A continuación validamos que todo funcione en db fiddle, un simulador de prostg
 ##### Funcion evaluar_nota:
 
 ![](img/image.png)
+
+##### Funcion actualizar_nota:
+
+![](img/cap3.png)
