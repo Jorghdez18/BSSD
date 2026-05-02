@@ -255,14 +255,14 @@ SELECT * FROM alumnos;
 
 A continuación validamos que todo funcione en db fiddle, un simulador de prostgresql que admite funciones con psql:
 
-Funcion estado_aprobado:
+##### Funcion estado_aprobado:
 
 ![](img/cap1FINN.png)
 
-Funcion alumnos_aprobados:
+##### Funcion alumnos_aprobados:
 
 ![](img/cap2.png)
 
-Funcion evaluar_nota:
+##### Funcion evaluar_nota:
 
 ![](img/image.png)
