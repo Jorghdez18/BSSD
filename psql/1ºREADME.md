@@ -251,7 +251,9 @@ SELECT * FROM alumnos;
 
 ---
 
-## A continuación validamos que todo funcione en db fiddle, un simulador de prostgresql que admite funciones con psql, dicha pagina funciona como un postgre normal y corriente con la diferencia de que estamos en un navegador web:
+### Validaciones:
+
+A continuación validamos que todo funcione en db fiddle, un simulador de prostgresql que admite funciones con psql:
 
 Funcion estado_aprobado:
 
