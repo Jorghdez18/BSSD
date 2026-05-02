@@ -258,10 +258,3 @@ SELECT * FROM alumnos;
 ```
 
 ---
-
-## 9. Consideraciones finales
-
-- Se han implementado funciones de distintos tipos
-- Se han utilizado estructuras de control básicas
-- Se ha trabajado con datos reales
-- El código es sencillo y fácil de entender
