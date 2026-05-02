@@ -2,15 +2,7 @@
 
 ## 1. Introducción
 
-En este documento se desarrollan funciones y procedimientos almacenados en PostgreSQL utilizando PL/pgSQL.
-
-Se aplican los siguientes conceptos:
-
-- Variables (`DECLARE`)
-- Estructuras condicionales (`IF`, `CASE`)
-- Bucles (`FOR`, `WHILE`)
-- Manejo de resultados (`RETURN`, `SELECT INTO`)
-- Uso de tablas reales
+En este documento se implementarán funciones de pgsql que permitan determinar si un alumno está aprobado o suspendido, consultar alumnos aprobados y evaluar su situación académica. Para ello se utilizarán variables, estructuras condicionales, bucles y manejo de resultados aplicados sobre tablas reales.
 
 ---
 
